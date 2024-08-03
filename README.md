@@ -1,4 +1,4 @@
-# Platform-Influence
+# Social Platform-Influence on Consumer Decisions 
 Exploratory Data Analysis on Social Platforms Influence on our shopping
 
 ## Dataset
